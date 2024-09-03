@@ -30,3 +30,4 @@ This application allows user to post a ticket as a customer and validating ticke
 ## Todo
 - [ ] CRUD categories on admin
 - [ ] User management on admin
+- [ ] CD to Dokcerhub
