@@ -28,5 +28,5 @@ This application allows user to post a ticket as a customer and validating ticke
   ![image](https://github.com/user-attachments/assets/6551f3c5-2705-4170-9ada-0d8960b10e0b)
 
 ## Todo
-[ ] CRUD categories on admin
-[ ] User management on admin
+- [ ] CRUD categories on admin
+- [ ] User management on admin
